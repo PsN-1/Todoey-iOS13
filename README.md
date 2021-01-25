@@ -1,3 +1,15 @@
+### **_Project Finished_**
+
+*There was so many topics covered in this project, but the most important were:*
+
+* UserDefaults
+* Core Data 
+* Realm
+
+<img src="ProjectsImages/img01.png" width="150" height="300">___ <img src="ProjectsImages/img02.png" width="150" height="300">___
+
+___
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
